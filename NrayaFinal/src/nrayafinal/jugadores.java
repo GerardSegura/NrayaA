@@ -1,4 +1,4 @@
-
+package nrayafinal;
 import java.util.Scanner;
 
 public class jugadores {
